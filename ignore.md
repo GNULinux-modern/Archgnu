@@ -8,3 +8,15 @@ sudo ln -s /usr/lib/libboost_python314.so.1.92.0 /usr/lib/libboost_python314.so.
 -----------------------------------------------------------------------------------------------------------------
 sudo mkdir -p /home/hamedmustafa/Desktop/archgnu/airootfs/usr/lib/
 sudo ln -sf /usr/lib/libboost_python314.so.1.92.0 /home/hamedmustafa/Desktop/archgnu/airootfs/usr/lib/libboost_python314.so.1.91.0
+----------------------------------------------------------------------------------------------------------------
+sudo pacman-key --init
+sudo pacman-key --populate archlinux
+sudo pacman -Sy --noconfirm
+---------------------------------------------------------------------------------------------------------------
+sudo rm -f /usr/lib/libboost_python*.so.1.91.0
+---------------------------------------------------------------------------------------------------------------
+sudo pacman -S --noconfirm calamares
+----------------------------------------------------------------------------------------------------------------
+yay -S --rebuild --answerclean All --noconfirm calamares
+----------------------------------------------------------------------------------------------------------------
+sudo calamares -d
