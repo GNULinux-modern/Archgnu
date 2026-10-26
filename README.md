@@ -1,7 +1,6 @@
 #archgnu
-Welcome to Archgnu/ArchGNU
-Made by a 12 year old without any tuts
-unstable sadly
-is great
+ArchGNU — A custom, lightweight Arch Linux distribution featuring KDE Plasma, PipeWire, and a fast, reliable CLI setup out of the box.
 
+HOW TO INSTALL LISTEN CAREFULLY
+USE ARCHINSTALL DONT USE THE DESKTOP SHORTCUTS
 
