@@ -1,0 +1,37 @@
+===============================================================================
+CUSTOM LICENSE ADDENDUM: PROPRIETARY & OPEN-SOURCE USAGE TERMS
+Copyright (c) 2026 [Archgnu Projects]
+===============================================================================
+
+This software is dual-licensed. By using this software, you agree to the 
+following conditions, which amend and take precedence over the standard 
+GNU General Public License (GPLv3) text appended below:
+
+1. OPEN-SOURCE DISTRIBUTION ("GIVE BACK" REQUIREMENT)
+   You are free to use, modify, and distribute this software for free, provided 
+   that your derivative product is also released fully as open-source software 
+   under the same GPLv3 terms. You must clearly credit the original author and 
+   share your modifications back with the community.
+
+2. PROPRIETARY SOFTWARE RESTRICTIONS & PERMISSION
+   If you wish to use this software, or any portion of it, inside a closed-source 
+   or proprietary product, you MUST comply with BOTH of the following rules:
+   
+   A. EXPLICIT PERMISSION: You must obtain prior written permission from the 
+      copyright holder ([Archgnu Projects]).
+   
+   B. 40% OPEN-SOURCE COMPLIANCE: If permission is granted, a minimum of 40% 
+      of your overall final product's codebase or supporting infrastructure 
+      must be made publicly available as open-source software.
+
+3. NO WARRANTY
+   THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED. THE AUTHORS OR COPYRIGHT HOLDERS SHALL NOT BE LIABLE FOR ANY CLAIM,
+   DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.
+
+----------------------------------------------------------------------------------
+COMPATIPLE WITH THE FOLLOWING LICENSES BELOW
+
+===============================================================================
+STANDARD GNU GENERAL PUBLIC LICENSE TERMS (GPLv3)
+===============================================================================
